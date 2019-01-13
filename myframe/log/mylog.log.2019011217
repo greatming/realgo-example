@@ -1,5 +1,0 @@
-2019-01-12 14:18:28.693659 [NOTICE] log.go:9: [ip:127.0.0.1:50599] [url:/index] [exec_time:2.86052ms] [errno:0] request done
-2019-01-12 17:11:30.065305 [INFO] db_handler.go:31: [model:ResourcesbackupDB] Open DB: root:root@tcp(127.0.0.1:3306)/review?readTimeout=5ms&writeTimeout=5ms with pool [MaxOpenConns:25] [MaxIdleConns:5] [MaxLifeTime:5]
-2019-01-12 17:11:30.086348 [NOTICE] log.go:9: [ip:127.0.0.1:53151] [url:/index] [exec_time:21.102015ms] [errno:0] request done
-2019-01-12 17:12:03.364486 [INFO] db_handler.go:31: [model:ResourcesbackupDB] Open DB: root:root@tcp(127.0.0.1:3306)/review?readTimeout=5ms&writeTimeout=5ms with pool [MaxOpenConns:25] [MaxIdleConns:5] [MaxLifeTime:5]
-2019-01-12 17:12:03.376064 [NOTICE] log.go:9: [ip:127.0.0.1:53170] [url:/index] [exec_time:11.599548ms] [errno:0] request done

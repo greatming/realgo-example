@@ -1,3 +1,0 @@
-2019-01-13 21:48:28.403759 [INFO] db_handler.go:31: [model:ResourcesbackupDB] Open DB: root:root@tcp(127.0.0.1:3306)/review?readTimeout=5ms&writeTimeout=5ms with pool [MaxOpenConns:25] [MaxIdleConns:5] [MaxLifeTime:5]
-2019-01-13 21:48:28.404260 [INFO] db_handler.go:31: [model:ResourcesbackupDB] Open DB: root:root@tcp(127.0.0.1:3306)/review?readTimeout=5ms&writeTimeout=5ms with pool [MaxOpenConns:25] [MaxIdleConns:5] [MaxLifeTime:5]
-2019-01-13 21:48:28.404689 [NOTICE] log.go:9: [ip:127.0.0.1:53229] [url:/index] [exec_time:963.207µs] [errno:14] request done
