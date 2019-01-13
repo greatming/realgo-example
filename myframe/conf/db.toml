@@ -1,0 +1,12 @@
+[resourcesbackup]
+    [resourcesbackup.pool]
+    MaxOpenConn = 25
+    MaxIdleConn = 5
+    MaxLifeTime = 5
+    ReadTimeout = 5
+    WriteTimeout = 5
+    [resourcesbackup.info]
+    host = ["127.0.0.1:3306"]
+    user = "root"
+    pwd = "root"
+    dbname = "review"

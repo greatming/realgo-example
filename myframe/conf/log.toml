@@ -1,0 +1,3 @@
+path = "log/mylog.log"
+level = 8
+backUpCount = 24
